@@ -61,4 +61,4 @@ In ./detector/ folder and run:
 
 ### Notes
 
-For the consideration of patient privacy, we did not release the PE129 dataset.
+For the consideration of patient privacy, the PE129 dataset is not released.
