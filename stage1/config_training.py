@@ -1,6 +1,6 @@
-config = {'train_preprocess_result_path': '/home/linyi/Code/pytorch/pe_detection_clean/Data/all/preprocess/',
-          'val_preprocess_result_path': '/home/linyi/Code/pytorch/pe_detection_clean/Data/all/preprocess/',
-          'test_preprocess_result_path': '/home/linyi/Code/pytorch/pe_detection_clean/Data/all/preprocess/',
+config = {'train_preprocess_result_path': '',
+          'val_preprocess_result_path': '',
+          'test_preprocess_result_path': '',
 
           'black_list': ['HHCT200047023', 'HHCT200049940', 'HHCT200042527', 'CT300082795', 'HHCT200043940',     #hospital
                          'CT300082199', 'CT300082430', 'CT300082652', 'CT300081485', 'CT300080233',  
