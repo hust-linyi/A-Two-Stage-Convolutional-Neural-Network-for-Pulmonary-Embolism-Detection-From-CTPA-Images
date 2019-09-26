@@ -63,4 +63,4 @@ In ./detector/ folder and run:
 
 For the consideration of patient privacy, the PE129 dataset is not released.
 
-You can download the trained model in [stage1](https://drive.google.com/open?id=1i-PdlaAP5z6qekmMDjekTmchn7nBvzeq) and [stage2](https://drive.google.com/open?id=1WGlygAqsoLCRfNxRTiuQbzosbxKJlhH3).
+You can download the trained model of [stage1](https://drive.google.com/open?id=1i-PdlaAP5z6qekmMDjekTmchn7nBvzeq) and [stage2](https://drive.google.com/open?id=1WGlygAqsoLCRfNxRTiuQbzosbxKJlhH3).
