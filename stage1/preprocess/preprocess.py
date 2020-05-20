@@ -124,10 +124,10 @@ def savenpy(id,annos,filelist,prep_folder,data_path,black_list):
             print extendbox
 
             sliceim1 = lumTrans(sliceim_resampled)
-            sliceim = sliceim*dilatedMask+pad_value*(1-dilatedMask).astype('uint8')
-            bones = sliceim*extramask>bone_thresh
-            bones = sliceim1 > bone_thresh
-            sliceim1[bones] = pad_value
+            # sliceim = sliceim*dilatedMask+pad_value*(1-dilatedMask).astype('uint8')
+            # bones = sliceim*extramask>bone_thresh
+            # bones = sliceim1 > bone_thresh
+            # sliceim1[bones] = pad_value
             sliceim2 = sliceim1[extendbox[0,0]:extendbox[0,1],
                         extendbox[1,0]:extendbox[1,1],
                         extendbox[2,0]:extendbox[2,1]]
