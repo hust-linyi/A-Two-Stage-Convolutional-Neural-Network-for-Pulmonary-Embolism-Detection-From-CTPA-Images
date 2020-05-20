@@ -26,6 +26,8 @@ This is the official repo for "A Two Stage Convolutional Neural Network for Pulm
 #### Preparation:
 
   Download the [FUMPE dataset](https://figshare.com/collections/FUMPE/4107803/1)
+  
+  And our mantual [labels](https://github.com/hust-linyi/Test-Label-of-CAD-PE-Challenge) of PE Challenge test set
    
 #### For stage 1:
 
